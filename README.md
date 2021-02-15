@@ -2,11 +2,9 @@
 
 ## Gallery
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
   <tr>
+    <!-- 2021-02 -->
     <td align="center">
         <a href="https://www.pixilart.com/art/colosseum-8bd3aea0b470589">
             <img src="https://art.pixilart.com/8bd3aea0b470589.png" width="100px;" alt=""/>
@@ -32,14 +30,19 @@
         <small>2021-02-14</small>
         <br />
         <a href="https://www.pixilart.com/search?term=drone">#drone</a> 
-    </td>    
+    </td>
+    <td align="center">
+        <a href="https://www.pixilart.com/art/lakhta-f5c5d47198db4d7">
+            <img src="https://art.pixilart.com/f5c5d47198db4d7.png" width="100px;" alt=""/>
+            <br />
+            <sub>
+                <b>Lakhta</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-15</small>
+        <br />
+        <a href="https://www.pixilart.com/search?term=skyscraper">#skyscraper</a> 
+    </td>
   </tr>
-
-  
-
 </table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->

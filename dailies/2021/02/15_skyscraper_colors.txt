@@ -1,0 +1,12 @@
+Clouds1	#edc6bb
+Clouds2	#f8c3ad
+Clouds3	#d5a49f
+Clouds4	#a593a0
+Clouds5	#b4acbb
+Clouds6	#9597aa
+Clouds7	#646894
+Clouds8	#58718f
+Clouds9	#3d4385
+Building1	#5b5c5e
+Building2	#3f444e
+Building3	#000000
