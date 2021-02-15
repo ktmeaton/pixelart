@@ -20,7 +20,7 @@
     </td>
     <td align="center">
         <a href="https://www.pixilart.com/art/drone-bee-4ba1d20fcdeb56a">
-            <img src="https://art.pixilart.com/4ba1d20fcdeb56a.png" width="100px;" alt=""/>
+            <img src="https://art.pixilart.com/e1bcaf887eca001.png" width="100px;" alt=""/>
             <br />
             <sub>
                 <b>Drone Bee</b>
