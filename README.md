@@ -31,17 +31,30 @@
         <a href='https://www.pixilart.com/search?term=drone'>#drone</a>
     </td>
     <td align='center'>
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/15_drone_Drone-Bee.png'>
-            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/15_drone_Drone-Bee.png' width='100px;' alt=''/>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/15_skyscraper_Lakhta.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/15_skyscraper_Lakhta.png' width='100px;' alt=''/>
             <br />
             <sub>
-                <b>Drone Bee</b>
+                <b>Lakhta</b>
             </sub>
         </a>
         <br />
         <small>2021-02-15</small>
         <br />
-        <a href='https://www.pixilart.com/search?term=drone'>#drone</a>
+        <a href='https://www.pixilart.com/search?term=skyscraper'>#skyscraper</a>
+    </td>
+    <td align='center'>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/16_shield_Force-Field.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/16_shield_Force-Field.png' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>Force Field</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-16</small>
+        <br />
+        <a href='https://www.pixilart.com/search?term=shield'>#shield</a>
     </td>
   </tr>
 </table>
