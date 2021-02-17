@@ -56,5 +56,18 @@
         <br />
         <a href='https://www.pixilart.com/search?term=shield'>#shield</a>
     </td>
+    <td align='center'>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/17_building_Axe-&-Hammer.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/17_building_Axe-&-Hammer.png' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>Axe & Hammer</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-17</small>
+        <br />
+        <a href='https://www.pixilart.com/search?term=building'>#building</a>
+    </td>
   </tr>
 </table>
