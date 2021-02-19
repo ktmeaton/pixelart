@@ -111,5 +111,33 @@
         <br />
         <a href='https://www.pixilart.com/search?term=building'>#building</a>
     </td>
+    <td align='center'>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/18_lion_leo.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/18_lion_leo.png' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>leo</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-18</small>
+        <br />
+        <a href='https://www.pixilart.com/search?term=lion'>#lion</a>
+    </td>
+  </tr>
+  <tr>
+    <td align='center'>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/19_fan_fan.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/19_fan_fan.png' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>fan</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-19</small>
+        <br />
+        <a href='https://www.pixilart.com/search?term=fan'>#fan</a>
+    </td>
   </tr>
 </table>
