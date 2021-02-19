@@ -1,5 +1,47 @@
 # Pixilart
 
+## Avatars
+
+<table>
+<table>
+  <tr>
+    <td align='center'>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/avatars/ktmeaton.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/avatars/ktmeaton.png' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>Katherine Eaton</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-19</small>
+        <br />
+        <a href='https://ktmeaton.github.io/'>website</a>
+    </td>
+  </tr>
+</table>
+</table>
+
+## Logos
+
+<table>
+  <tr>
+    <td align='center'>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/logos/autologs/autologs_orig.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/logos/autologs/autologs_orig.png' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>autologs</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-18</small>
+        <br />
+        <a href='https://ktmeaton.github.io/autologs/'>application</a>
+    </td>
+  </tr>
+</table>
+
 ## Sprites
 
 <table>
@@ -21,27 +63,6 @@
   </tr>
 </table>
 </table>
-
-## Logos
-
-<table>
-  <tr>
-    <td align='center'>
-        <a href='logos/autologs/autologs_orig.png'>
-            <img src='logos/autologs/autologs_orig.png' width='100px;' alt=''/>
-            <br />
-            <sub>
-                <b>autologs</b>
-            </sub>
-        </a>
-        <br />
-        <small>2021-02-18</small>
-        <br />
-        <a href='https://ktmeaton.github.io/autologs/'>application</a>
-    </td>
-  </tr>
-</table>
-
 ## Dailies
 
 <table>
@@ -116,7 +137,7 @@
             <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/18_lion_leo.png' width='100px;' alt=''/>
             <br />
             <sub>
-                <b>leo</b>
+                <b>Leo</b>
             </sub>
         </a>
         <br />
