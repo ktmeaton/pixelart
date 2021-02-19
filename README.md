@@ -27,8 +27,8 @@
 <table>
   <tr>
     <td align='center'>
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/logos/autologs.png'>
-            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/logos/autologs.png' width='100px;' alt=''/>
+        <a href='logos/autologs/autologs_orig.png'>
+            <img src='logos/autologs/autologs_orig.png' width='100px;' alt=''/>
             <br />
             <sub>
                 <b>autologs</b>
