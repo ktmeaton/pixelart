@@ -1,6 +1,25 @@
 # Pixilart
 
-## Gallery
+## Logos
+
+<table>
+  <tr>
+    <td align='center'>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/logos/autologs.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/logos/autologs.png' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>autologs</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-18</small>
+        <br />
+        <a href='https://ktmeaton.github.io/autologs/'>website</a>
+    </td>
+</table>
+
+## Dailies
 
 <table>
   <tr>
