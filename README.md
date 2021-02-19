@@ -1,5 +1,27 @@
 # Pixilart
 
+## Sprites
+
+<table>
+<table>
+  <tr>
+    <td align='center'>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/sprites/ktmeaton.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/sprites/ktmeaton.png' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>ktmeaton</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-19</small>
+        <br />
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/sprites/spritesheet_ktmeaton.png'>spritesheet</a>
+    </td>
+  </tr>
+</table>
+</table>
+
 ## Logos
 
 <table>
@@ -15,8 +37,9 @@
         <br />
         <small>2021-02-18</small>
         <br />
-        <a href='https://ktmeaton.github.io/autologs/'>website</a>
+        <a href='https://ktmeaton.github.io/autologs/'>application</a>
     </td>
+  </tr>
 </table>
 
 ## Dailies
