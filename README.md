@@ -155,7 +155,7 @@
     </td>
     <td align='center'>
         <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/18_lion-Leo.png'>
-            <img src='dailies/2021/02/18_lion-Leo.png' width='100px;' alt=''/>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/18_lion-Leo.png' width='100px;' alt=''/>
             <br />
             <sub>
                 <b>Leo</b>
@@ -185,6 +185,36 @@
         <br />
         <a href='https://nzxt-site-media.s3-us-west-2.amazonaws.com/uploads/product/cover_image_content/804/card_2c6de1ef58b298d1.png'>Reference</a>           
     </td>
+    <td align='center'>
+        <a href=''>
+            <img src='' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>Fog Of War</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-20</small>
+        <br />
+        <a href='https://www.pixilart.com/search?term=fan'>#fog</a>
+        <br />
+        <a href=''>Reference</a>           
+    </td>      
+    <td align='center'>
+        <a href=''>
+            <img src='' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>Chef Hat</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-21</small>
+        <br />
+        <a href='https://www.pixilart.com/search?term=fan'>#chef-hat</a>
+        <br />
+        <a href=''>Reference</a>           
+    </td>    
   </tr>
 </table>
 
