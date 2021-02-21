@@ -92,6 +92,8 @@
         <small>2021-02-13</small>
         <br />
         <a href='https://www.pixilart.com/search?term=ruins'>#ruins</a>
+        <br />
+        <a href='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/800px-Colosseo_2020.jpg'>Reference</a>          
     </td>
     <td align='center'>
         <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/14_drone_Drone-Bee.png'>
@@ -118,6 +120,8 @@
         <small>2021-02-15</small>
         <br />
         <a href='https://www.pixilart.com/search?term=skyscraper'>#skyscraper</a>
+        <br />
+        <a href='https://www.wernersobek.de/app/uploads/2020/01/dji_0996-1024x682.jpg'>Reference</a>            
     </td>
     <td align='center'>
         <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/16_shield_Force-Field.png'>
@@ -131,6 +135,8 @@
         <small>2021-02-16</small>
         <br />
         <a href='https://www.pixilart.com/search?term=shield'>#shield</a>
+        <br />
+        <a href='https://ak.picdn.net/shutterstock/videos/33442261/thumb/12.jpg'>Reference</a>          
     </td>
     <td align='center'>
         <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/17_building_Axe-&-Hammer.png'>
@@ -144,10 +150,12 @@
         <small>2021-02-17</small>
         <br />
         <a href='https://www.pixilart.com/search?term=building'>#building</a>
+        <br />
+        <a href='https://images.squarespace-cdn.com/content/5ea3545e62992635385a39f0/1587762319980-46AFTVDK2PGUB1M1B5Y7/Hammer+%26+Axe+%281%29.png?content-type=image%2Fpng'>Reference</a>           
     </td>
     <td align='center'>
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/18_lion_leo.png'>
-            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/18_lion_leo.png' width='100px;' alt=''/>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/18_lion-Leo.png'>
+            <img src='dailies/2021/02/18_lion-Leo.png' width='100px;' alt=''/>
             <br />
             <sub>
                 <b>Leo</b>
@@ -157,6 +165,8 @@
         <small>2021-02-18</small>
         <br />
         <a href='https://www.pixilart.com/search?term=lion'>#lion</a>
+        <br />
+        <a href='https://png.pngtree.com/element_our/20190531/ourlarge/pngtree-cartoon-cute-little-lion-running-png-transparent-bottom-image_1305384.jpg'>Reference</a>        
     </td>
   </tr>
   <tr>
@@ -172,6 +182,9 @@
         <small>2021-02-19</small>
         <br />
         <a href='https://www.pixilart.com/search?term=fan'>#fan</a>
+        <br />
+        <a href='https://nzxt-site-media.s3-us-west-2.amazonaws.com/uploads/product/cover_image_content/804/card_2c6de1ef58b298d1.png'>Reference</a>           
     </td>
   </tr>
 </table>
+
