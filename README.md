@@ -199,8 +199,8 @@
         <a href='https://www.pixilart.com/search?term=fog'>#fog</a>       
     </td>      
     <td align='center'>
-        <a href=''>
-            <img src='' width='100px;' alt=''/>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/22_chef-hat_Chef-Hat.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/22_chef-hat_Chef-Hat.png' width='100px;' alt=''/>
             <br />
             <sub>
                 <b>Chef Hat</b>
@@ -209,9 +209,7 @@
         <br />
         <small>2021-02-21</small>
         <br />
-        <a href='https://www.pixilart.com/search?term=chef-hat'>#chef-hat</a>
-        <br />
-        <a href=''>Reference</a>           
+        <a href='https://www.pixilart.com/search?term=chef-hat'>#chef-hat</a>     
     </td>   
     <td align='center'>
         <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/22_bowtie_Bowtie.png'>
