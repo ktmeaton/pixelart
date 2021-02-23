@@ -196,7 +196,7 @@
         <br />
         <small>2021-02-20</small>
         <br />
-        <a href='https://www.pixilart.com/search?term=fan'>#fog</a>       
+        <a href='https://www.pixilart.com/search?term=fog'>#fog</a>       
     </td>      
     <td align='center'>
         <a href=''>
@@ -209,10 +209,23 @@
         <br />
         <small>2021-02-21</small>
         <br />
-        <a href='https://www.pixilart.com/search?term=fan'>#chef-hat</a>
+        <a href='https://www.pixilart.com/search?term=chef-hat'>#chef-hat</a>
         <br />
         <a href=''>Reference</a>           
-    </td>    
+    </td>   
+    <td align='center'>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/22_bowtie_Bowtie.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/22_bowtie_Bowtie.png' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>Bowtie</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-22</small>
+        <br />
+        <a href='https://www.pixilart.com/search?term=bowtie'>#bowtie</a>        
+    </td>        
   </tr>
 </table>
 
