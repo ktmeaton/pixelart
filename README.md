@@ -229,7 +229,7 @@
             <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/23_cherry_Cherry.png' width='100px;' alt=''/>
             <br />
             <sub>
-                <b>Bowtie</b>
+                <b>Cherry</b>
             </sub>
         </a>
         <br />
