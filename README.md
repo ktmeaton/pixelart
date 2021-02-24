@@ -139,8 +139,8 @@
         <a href='https://ak.picdn.net/shutterstock/videos/33442261/thumb/12.jpg'>Reference</a>          
     </td>
     <td align='center'>
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/17-redo_building_Axe-&-Hammer.png'>
-            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/17-redo_building_Axe-&-Hammer_96px.png' width='100px;' alt=''/>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/17_building_Axe-&-Hammer.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/17_building_Axe-&-Hammer_96px.png' width='100px;' alt=''/>
             <br />
             <sub>
                 <b>Axe & Hammer</b>
@@ -199,8 +199,8 @@
         <a href='https://www.pixilart.com/search?term=fog'>#fog</a>       
     </td>      
     <td align='center'>
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/21-redo_chef-hat_Chef-Hat.png'>
-            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/21-redo_chef-hat_Chef-Hat_96px.png' width='100px;' alt=''/>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/21_chef-hat_Chef-Hat.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/21_chef-hat_Chef-Hat_96px.png' width='100px;' alt=''/>
             <br />
             <sub>
                 <b>Chef Hat</b>
@@ -212,8 +212,8 @@
         <a href='https://www.pixilart.com/search?term=chef-hat'>#chef-hat</a>     
     </td>   
     <td align='center'>
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/22-redo_bowtie_Bowtie.png'>
-            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/22-redo_bowtie_Bowtie_96px.png' width='100px;' alt=''/>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/22_bowtie_Bowtie.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/22_bowtie_Bowtie_96px.png' width='100px;' alt=''/>
             <br />
             <sub>
                 <b>Bowtie</b>
@@ -225,8 +225,8 @@
         <a href='https://www.pixilart.com/search?term=bowtie'>#bowtie</a>        
     </td>   
     <td align='center'>
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/23-redo_cherry_Cherry.png'>
-            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/23-redo_cherry_Cherry_96px.png' width='100px;' alt=''/>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/23_cherry_Cherry.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/23_cherry_Cherry_96px.png' width='100px;' alt=''/>
             <br />
             <sub>
                 <b>Cherry</b>
