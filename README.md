@@ -238,7 +238,7 @@
         <a href='https://www.pixilart.com/search?term=cherry'>#cherry</a>        
     </td>     
     <td align='center'>
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/24_flash-drive_Flash-Drive'>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/24_flash-drive_Flash-Drive.png'>
             <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/24_flash-drive_Flash-Drive_96px.png' width='100px;' alt=''/>
             <br />
             <sub>
