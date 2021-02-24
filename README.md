@@ -236,7 +236,20 @@
         <small>2021-02-23</small>
         <br />
         <a href='https://www.pixilart.com/search?term=cherry'>#cherry</a>        
-    </td>            
+    </td>     
+    <td align='center'>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/24_pending_Pending.png'>
+            <img src='dailies/2021/02/24_flash-drive_Flash-Drive_96px.png' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>Flash Drive</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-24</small>
+        <br />
+        <a href='https://www.pixilart.com/search?term=flash-drive'>#flash-drive</a>        
+    </td>        
   </tr>
 </table>
 
