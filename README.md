@@ -62,10 +62,10 @@
   <tr>
     <td align='center'>
         <a href='sprites/ktmeaton/ktmeaton-spritesheet.png'>
-            <img src='sprites/ktmeaton/ktmeaton_walk-front.gif' width='48px;' alt=''/>
-            <img src='sprites/ktmeaton/ktmeaton_walk-left.gif' width='48px;' alt=''/>   
-            <img src='sprites/ktmeaton/ktmeaton_walk-right.gif' width='48px;' alt=''/>                     
-            <img src='sprites/ktmeaton/ktmeaton_walk-back.gif' width='48px;' alt=''/>                
+            <img src='sprites/ktmeaton/ktmeaton_walk-front.gif' width='60px;' alt=''/>
+            <img src='sprites/ktmeaton/ktmeaton_walk-left.gif' width='60px;' alt=''/>   
+            <img src='sprites/ktmeaton/ktmeaton_walk-right.gif' width='60px;' alt=''/>                     
+            <img src='sprites/ktmeaton/ktmeaton_walk-back.gif' width='60px;' alt=''/>                
             <br />
             <sub>
                 <b>ktmeaton</b>
@@ -80,7 +80,9 @@
   <tr>
     <td align='center'>
         <a href='sprites/knight/knight_spritesheet.png'>
-            <img src='sprites/knight/knight_run-attack.gif' width='48px;' alt=''/>          
+            <img src='sprites/knight/knight_run.gif' width='60px;' alt=''/>          
+            <img src='sprites/knight/knight_cut.gif' width='60px;' alt=''/>  
+            <img src='sprites/knight/knight_stab.gif' width='60px;' alt=''/>                     
             <br />
             <sub>
                 <b>Knight</b>
