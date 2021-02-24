@@ -67,7 +67,7 @@
             <img src='sprites/ktmeaton_walk-right.gif' width='100px;' alt=''/>                     
             <img src='sprites/ktmeaton_walk-back.gif' width='100px;' alt=''/>                
             <br />
-            <sub>
+            <sub align='center'>
                 <b>ktmeaton</b>
             </sub>
         </a>
