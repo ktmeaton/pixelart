@@ -84,7 +84,7 @@
   <tr>
     <td align='center'>
         <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/fonts/new.png'>
-            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/fonts/new.png' width='600px;' alt=''/>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/fonts/new.png' width='700px;' alt=''/>
             <br />
             <sub>
                 <b>New</b>
