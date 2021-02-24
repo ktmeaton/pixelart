@@ -212,8 +212,8 @@
         <a href='https://www.pixilart.com/search?term=chef-hat'>#chef-hat</a>     
     </td>   
     <td align='center'>
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/22_bowtie_Bowtie.png'>
-            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/22_bowtie_Bowtie.png' width='100px;' alt=''/>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/22-redo_bowtie_Bowtie.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/22-redo_bowtie_Bowtie_96px.png' width='100px;' alt=''/>
             <br />
             <sub>
                 <b>Bowtie</b>
