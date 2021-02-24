@@ -76,6 +76,29 @@
   </tr>
 </table>
 </table>
+
+## Fonts
+
+<table>
+<table>
+  <tr>
+    <td align='center'>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/sprites/ktmeaton.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/fonts/first.png' width='600px;' alt=''/>
+            <br />
+            <sub>
+                <b>First</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-24</small>
+        <br />
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/fonts/first.png'>fontsheet</a>
+    </td>
+  </tr>
+</table>
+</table>
+
 ## Dailies
 
 <table>
