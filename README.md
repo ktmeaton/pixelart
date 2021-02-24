@@ -61,8 +61,10 @@
 <table>
   <tr>
     <td align='center'>
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/sprites/ktmeaton.png'>
-            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/sprites/ktmeaton.gif' width='100px;' alt=''/>
+        <a href='sprites/ktmeaton-walk-front'>
+            <img src='sprites/ktmeaton_walk-front.gif' width='100px;' alt=''/>
+            <img src='sprites/ktmeaton_walk-left.gif' width='100px;' alt=''/>   
+            <img src='sprites/ktmeaton_walk-right.gif' width='100px;' alt=''/>                     
             <br />
             <sub>
                 <b>ktmeaton</b>
@@ -71,8 +73,8 @@
         <br />
         <small>2021-02-24</small>
         <br />
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/sprites/ktmeaton-spritesheet.png'>spritesheet</a>
-    </td>
+        <a href='sprites/ktmeaton-spritesheet.png'>spritesheet</a>
+    </td>    
   </tr>
 </table>
 </table>
