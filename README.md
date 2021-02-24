@@ -83,17 +83,17 @@
 <table>
   <tr>
     <td align='center'>
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/fonts/first.png'>
-            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/fonts/first.png' width='600px;' alt=''/>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/fonts/new.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/fonts/new.png' width='600px;' alt=''/>
             <br />
             <sub>
-                <b>First</b>
+                <b>New</b>
             </sub>
         </a>
         <br />
         <small>2021-02-24</small>
         <br />
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/fonts/first.png'>fontsheet</a>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/fonts/new.png'>fontsheet</a>
     </td>
   </tr>
 </table>
