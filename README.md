@@ -225,8 +225,8 @@
         <a href='https://www.pixilart.com/search?term=bowtie'>#bowtie</a>        
     </td>   
     <td align='center'>
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/23_cherry_Cherry.png'>
-            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/23_cherry_Cherry.png' width='100px;' alt=''/>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/23-redo_cherry_Cherry.png'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/23-redo_cherry_Cherry_96px.png' width='100px;' alt=''/>
             <br />
             <sub>
                 <b>Cherry</b>
@@ -238,8 +238,8 @@
         <a href='https://www.pixilart.com/search?term=cherry'>#cherry</a>        
     </td>     
     <td align='center'>
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/24_pending_Pending.png'>
-            <img src='dailies/2021/02/24_flash-drive_Flash-Drive_96px.png' width='100px;' alt=''/>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/24_flash-drive_Flash-Drive'>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/24_flash-drive_Flash-Drive_96px.png' width='100px;' alt=''/>
             <br />
             <sub>
                 <b>Flash Drive</b>
