@@ -139,7 +139,7 @@
         <a href='https://ak.picdn.net/shutterstock/videos/33442261/thumb/12.jpg'>Reference</a>          
     </td>
     <td align='center'>
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/17_building_Axe-&-Hammer.png'>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/17-redo_building_Axe-&-Hammer.png'>
             <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/dailies/2021/02/17-redo_building_Axe-&-Hammer_96px.png' width='100px;' alt=''/>
             <br />
             <sub>
