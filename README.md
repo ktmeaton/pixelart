@@ -62,12 +62,12 @@
   <tr>
     <td align='center'>
         <a href='sprites/ktmeaton-spritesheet.png'>
-            <img src='sprites/ktmeaton_walk-front.gif' width='100px;' alt=''/>
-            <img src='sprites/ktmeaton_walk-left.gif' width='100px;' alt=''/>   
-            <img src='sprites/ktmeaton_walk-right.gif' width='100px;' alt=''/>                     
-            <img src='sprites/ktmeaton_walk-back.gif' width='100px;' alt=''/>                
+            <img src='sprites/ktmeaton_walk-front.gif' width='80px;' alt=''/>
+            <img src='sprites/ktmeaton_walk-left.gif' width='80px;' alt=''/>   
+            <img src='sprites/ktmeaton_walk-right.gif' width='80px;' alt=''/>                     
+            <img src='sprites/ktmeaton_walk-back.gif' width='80px;' alt=''/>                
             <br />
-            <sub align='center'>
+            <sub>
                 <b>ktmeaton</b>
             </sub>
         </a>
