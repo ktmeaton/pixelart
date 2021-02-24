@@ -61,11 +61,11 @@
 <table>
   <tr>
     <td align='center'>
-        <a href='sprites/ktmeaton-spritesheet.png'>
-            <img src='sprites/ktmeaton_walk-front.gif' width='80px;' alt=''/>
-            <img src='sprites/ktmeaton_walk-left.gif' width='80px;' alt=''/>   
-            <img src='sprites/ktmeaton_walk-right.gif' width='80px;' alt=''/>                     
-            <img src='sprites/ktmeaton_walk-back.gif' width='80px;' alt=''/>                
+        <a href='sprites/ktmeaton/ktmeaton-spritesheet.png'>
+            <img src='sprites/ktmeaton/ktmeaton_walk-front.gif' width='48px;' alt=''/>
+            <img src='sprites/ktmeaton/ktmeaton_walk-left.gif' width='48px;' alt=''/>   
+            <img src='sprites/ktmeaton/ktmeaton_walk-right.gif' width='48px;' alt=''/>                     
+            <img src='sprites/ktmeaton/ktmeaton_walk-back.gif' width='48px;' alt=''/>                
             <br />
             <sub>
                 <b>ktmeaton</b>
@@ -74,9 +74,24 @@
         <br />
         <small>2021-02-24</small>
         <br />
-        <a href='sprites/ktmeaton-spritesheet.png'>spritesheet</a>
+        <a href='sprites/ktmeaton/ktmeaton_spritesheet.png'>spritesheet</a>
     </td>    
-  </tr>
+  </tr>  
+  <tr>
+    <td align='center'>
+        <a href='sprites/knight/knight_spritesheet.png'>
+            <img src='sprites/knight/knight_run-attack.gif' width='48px;' alt=''/>          
+            <br />
+            <sub>
+                <b>Knight</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-24</small>
+        <br />
+        <a href='sprites/knight/knight_spritesheet.png'>spritesheet</a>
+    </td>    
+  </tr>    
 </table>
 </table>
 
