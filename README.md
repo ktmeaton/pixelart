@@ -62,16 +62,16 @@
   <tr>
     <td align='center'>
         <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/sprites/ktmeaton.png'>
-            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/sprites/ktmeaton.png' width='100px;' alt=''/>
+            <img src='https://raw.githubusercontent.com/ktmeaton/pixilart/master/sprites/ktmeaton.gif' width='100px;' alt=''/>
             <br />
             <sub>
                 <b>ktmeaton</b>
             </sub>
         </a>
         <br />
-        <small>2021-02-19</small>
+        <small>2021-02-24</small>
         <br />
-        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/sprites/spritesheet_ktmeaton.png'>spritesheet</a>
+        <a href='https://raw.githubusercontent.com/ktmeaton/pixilart/master/sprites/ktmeaton-spritesheet.png'>spritesheet</a>
     </td>
   </tr>
 </table>
