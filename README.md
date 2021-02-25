@@ -93,6 +93,20 @@
         <br />
         <a href='sprites/knight/knight_spritesheet.png'>spritesheet</a>
     </td>    
+    <td align='center'>
+        <a href='sprites/knight/knight-cape_spritesheet.png'>
+            <img src='sprites/knight-cape/knight-cape_run.gif' width='100px;'>
+            <img src='sprites/knight-cape/knight-cape_cut.gif' width='100px;'>                                       
+            <br />
+            <sub>
+                <b>Knight Cape</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-24</small>
+        <br />
+        <a href='sprites/knight/knight-cape_spritesheet.png'>spritesheet</a>
+    </td>    
   </tr>    
 </table>
 </table>
