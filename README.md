@@ -1,148 +1,8 @@
-# Pixilart
+# Pixelart
 
-## Avatars
+Pixel Art Portfolio.
 
-<table>
-<table>
-  <tr>
-    <td align='center'>
-        <a href='avatars/ktmeaton.png'>
-            <img src='avatars/ktmeaton.png' width='100px;' alt=''/>
-            <br />
-            <sub>
-                <b>Katherine Eaton</b>
-            </sub>
-        </a>
-        <br />
-        <small>2021-02-19</small>
-        <br />
-        <a href='https://ktmeaton.github.io/'>website</a>
-    </td>
-  </tr>
-</table>
-</table>
-
-## Logos
-
-<table>
-  <tr>
-    <td align='center'>
-        <a href='logos/autologs/autologs.png'>
-            <img src='logos/autologs/autologs.png' width='100px;' alt=''/>
-            <br />
-            <sub>
-                <b>autologs</b>
-            </sub>
-        </a>
-        <br />
-        <small>2021-02-18</small>
-        <br />
-        <a href='https://ktmeaton.github.io/autologs/'>website</a>
-    </td>
-    <td align='center'>
-        <a href='logos/ncbimeta/ncbimeta.png'>
-            <img src='logos/ncbimeta/ncbimeta.png' width='100px;' alt=''/>
-            <br />
-            <sub>
-                <b>NCBImeta</b>
-            </sub>
-        </a>
-        <br />
-        <small>2021-02-20</small>
-        <br />
-        <a href='https://ktmeaton.github.io/ncbimeta/'>website</a>
-    </td>    
-  </tr>
-</table>
-
-## Sprites
-
-<table>
-<table>
-  <tr>
-    <td align='center'>
-        <a href='sprites/ktmeaton/ktmeaton-spritesheet.png'>
-            <img src='sprites/ktmeaton/ktmeaton_walk-front.gif' width='100px;' alt=''/>
-            <img src='sprites/ktmeaton/ktmeaton_walk-left.gif' width='100px;' alt=''/>   
-            <img src='sprites/ktmeaton/ktmeaton_walk-right.gif' width='100px;' alt=''/>                     
-            <img src='sprites/ktmeaton/ktmeaton_walk-back.gif' width='100px;' alt=''/>                
-            <br />
-            <sub>
-                <b>ktmeaton</b>
-            </sub>
-        </a>
-        <br />
-        <small>2021-02-24</small>
-        <br />
-        <a href='sprites/ktmeaton/ktmeaton_spritesheet.png'>spritesheet</a>
-    </td>    
-  </tr>  
-  <tr>
-    <td align='center'>
-        <a href='sprites/knight/knight_run.gif'>
-            <img src='sprites/knight/knight_run.gif' width='100px;' alt=''/> 
-        </a>         
-        <a href='sprites/knight/knight_cut.gif'>
-            <img src='sprites/knight/knight_cut.gif' width='100px;' alt=''/> 
-        </a>   
-        <a href='sprites/knight/knight_stab.gif'>
-            <img src='sprites/knight/knight_stab.gif' width='100px;' alt=''/> 
-        </a>                                     
-        <br />
-        <sub>
-            <b>Knight</b>
-        </sub>
-        </a>
-        <br />
-        <small>2021-02-24</small>
-        <br />
-        <a href='sprites/knight/knight_spritesheet.png'>spritesheet</a>
-    </td>        
-  </tr>    
-  <tr>
-    <td align='center'>
-        <a href='sprites/knight-cape/knight-cape_run.gif'>
-            <img src='sprites/knight-cape/knight-cape_run.gif' width='100px;'>                                     
-        </a>
-        <a href='sprites/knight-cape/knight-cape_cut.gif'>
-            <img src='sprites/knight-cape/knight-cape_cut.gif' width='100px;'>                                     
-        </a>        
-        <br />
-        <sub>
-            <b>Knight Cape</b>
-        </sub>        
-        <br />
-        <small>2021-02-25</small>
-        <br />
-        <a href='sprites/knight-cape/knight-cape_spritesheet.png'>spritesheet</a>
-    </td>   
-  </tr>
-</table>
-</table>
-
-## Fonts
-
-<table>
-<table>
-  <tr>
-    <td align='center'>
-        <a href='fonts/new.png'>
-            <img src='fonts/new.png' width='700px;' alt=''/>
-            <br />
-            <sub>
-                <b>New</b>
-            </sub>
-        </a>
-        <br />
-        <small>2021-02-24</small>
-        <br />
-        <a href='fonts/new.png'>fontsheet</a>
-    </td>
-  </tr>
-</table>
-</table>
-
-## Dailies
+## [Pixilart Daily Challenge](https://www.pixilart.com/challenges)
 
 <table>
   <tr>
@@ -336,3 +196,140 @@
   </tr>
 </table>
 
+## Sprites
+
+<table>
+  <tr>
+    <td align='center'>
+        <a href='sprites/ktmeaton/ktmeaton-spritesheet.png'>
+            <img src='sprites/ktmeaton/ktmeaton_walk-front.gif' width='100px;' alt=''/>
+            <img src='sprites/ktmeaton/ktmeaton_walk-left.gif' width='100px;' alt=''/>   
+            <img src='sprites/ktmeaton/ktmeaton_walk-right.gif' width='100px;' alt=''/>                     
+            <img src='sprites/ktmeaton/ktmeaton_walk-back.gif' width='100px;' alt=''/>                
+            <br />
+            <sub>
+                <b>ktmeaton</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-24</small>
+        <br />
+        <a href='sprites/ktmeaton/ktmeaton_spritesheet.png'>spritesheet</a>
+    </td>    
+  </tr>  
+  <tr>
+    <td align='center'>
+        <a href='sprites/knight/knight_run.gif'>
+            <img src='sprites/knight/knight_run.gif' width='100px;' alt=''/> 
+        </a>         
+        <a href='sprites/knight/knight_cut.gif'>
+            <img src='sprites/knight/knight_cut.gif' width='100px;' alt=''/> 
+        </a>   
+        <a href='sprites/knight/knight_stab.gif'>
+            <img src='sprites/knight/knight_stab.gif' width='100px;' alt=''/> 
+        </a>                                     
+        <br />
+        <sub>
+            <b>Knight</b>
+        </sub>
+        </a>
+        <br />
+        <small>2021-02-24</small>
+        <br />
+        <a href='sprites/knight/knight_spritesheet.png'>spritesheet</a>
+    </td>        
+  </tr>    
+  <tr>
+    <td align='center'>
+        <a href='sprites/knight-cape/knight-cape_run.gif'>
+            <img src='sprites/knight-cape/knight-cape_run.gif' width='100px;'>                                     
+        </a>
+        <a href='sprites/knight-cape/knight-cape_cut.gif'>
+            <img src='sprites/knight-cape/knight-cape_cut.gif' width='100px;'>                                     
+        </a>        
+        <br />
+        <sub>
+            <b>Knight Cape</b>
+        </sub>        
+        <br />
+        <small>2021-02-25</small>
+        <br />
+        <a href='sprites/knight-cape/knight-cape_spritesheet.png'>spritesheet</a>
+    </td>   
+  </tr>
+</table>
+
+## Avatars
+
+<table>
+<table>
+  <tr>
+    <td align='center'>
+        <a href='avatars/ktmeaton.png'>
+            <img src='avatars/ktmeaton.png' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>Katherine Eaton</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-19</small>
+        <br />
+        <a href='https://ktmeaton.github.io/'>website</a>
+    </td>
+  </tr>
+</table>
+</table>
+
+## Logos
+
+<table>
+  <tr>
+    <td align='center'>
+        <a href='logos/autologs/autologs.png'>
+            <img src='logos/autologs/autologs.png' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>autologs</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-18</small>
+        <br />
+        <a href='https://ktmeaton.github.io/autologs/'>website</a>
+    </td>
+    <td align='center'>
+        <a href='logos/ncbimeta/ncbimeta.png'>
+            <img src='logos/ncbimeta/ncbimeta.png' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>NCBImeta</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-20</small>
+        <br />
+        <a href='https://ktmeaton.github.io/ncbimeta/'>website</a>
+    </td>    
+  </tr>
+</table>
+
+## Fonts
+
+<table>
+  <tr>
+    <td align='center'>
+        <a href='fonts/new.png'>
+            <img src='fonts/new.png' width='700px;' alt=''/>
+            <br />
+            <sub>
+                <b>New</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-24</small>
+        <br />
+        <a href='fonts/new.png'>fontsheet</a>
+    </td>
+  </tr>
+</table>
