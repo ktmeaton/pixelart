@@ -294,5 +294,22 @@
         <a href='https://www.pixilart.com/search?term=flash-drive'>#flash-drive</a>        
     </td>        
   </tr>
+  <tr>
+    <td align='center'>
+    <a href='dailies/2021/02/25_elevator_CN-Tower.gif'>
+        <img src='dailies/2021/02/25_elevator_CN-Tower.gif' width='100px;' alt=''/>
+        <br />
+        <sub>
+            <b>CN Tower</b>
+        </sub>
+    </a>
+    <br />
+    <small>2021-02-25</small>
+    <br />
+    <a href='https://www.pixilart.com/search?term=elevator'>#elevator</a>      
+    <br />
+    <a href='dailies/2021/02/25_elevator_CN-Tower_spritesheet.png'>spritesheet</a>         
+</td>  
+  </tr>
 </table>
 

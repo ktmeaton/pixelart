@@ -1,3 +1,6 @@
 README.md.bak
 *.png~
 *.kra~
+*log_encode_gif.log
+*palette.png
+*log_generate_palette_gif.log
