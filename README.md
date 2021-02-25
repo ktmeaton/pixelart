@@ -212,7 +212,7 @@ Pixel Art Portfolio.
             </sub>
         </a>
         <br />
-        <small>2021-02-24</small>
+        <small>16x16</small>
         <br />
         <a href='sprites/ktmeaton/ktmeaton_spritesheet.png'>spritesheet</a>
     </td>    
@@ -234,7 +234,7 @@ Pixel Art Portfolio.
         </sub>
         </a>
         <br />
-        <small>2021-02-24</small>
+        <small>16x16</small>
         <br />
         <a href='sprites/knight/knight_spritesheet.png'>spritesheet</a>
     </td>        
@@ -252,7 +252,7 @@ Pixel Art Portfolio.
             <b>Knight Cape</b>
         </sub>        
         <br />
-        <small>2021-02-25</small>
+        <small>16x16</small>
         <br />
         <a href='sprites/knight-cape/knight-cape_spritesheet.png'>spritesheet</a>
     </td>   
@@ -333,3 +333,21 @@ Pixel Art Portfolio.
     </td>
   </tr>
 </table>
+
+## Notes
+
+
+### Spritesheets
+
+```yaml
+- Tile display resolution: 96 px
+- Download: Original
+- Background: Transparent
+```
+### Animation
+
+```yaml
+- Tile display resolution: 96 px
+- Download: 320 px
+- Background: White
+```
