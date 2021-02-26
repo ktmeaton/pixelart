@@ -2,6 +2,14 @@
 
 Pixel Art Portfolio.
 
+## Table of Contents
+
+1. [Pixilart Daily Challenge](https://github.com/ktmeaton/pixelart#pixilart-daily-challenge)
+1. [Sprites](https://github.com/ktmeaton/pixelart#sprites)
+1. [Avatars](https://github.com/ktmeaton/pixelart#avatars)
+1. [Fonts](https://github.com/ktmeaton/pixelart#fonts)
+1. [Logos](https://github.com/ktmeaton/pixelart#logos)
+
 ## [Pixilart Daily Challenge](https://www.pixilart.com/challenges)
 
 <table>
@@ -179,20 +187,35 @@ Pixel Art Portfolio.
   </tr>
   <tr>
     <td align='center'>
-    <a href='dailies/2021/02/25_elevator_CN-Tower.gif'>
-        <img src='dailies/2021/02/25_elevator_CN-Tower.gif' width='100px;' alt=''/>
+        <a href='dailies/2021/02/25_elevator_CN-Tower.gif'>
+            <img src='dailies/2021/02/25_elevator_CN-Tower.gif' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>CN Tower</b>
+            </sub>
+        </a>
         <br />
-        <sub>
-            <b>CN Tower</b>
-        </sub>
-    </a>
-    <br />
-    <small>2021-02-25</small>
-    <br />
-    <a href='https://www.pixilart.com/search?term=elevator'>#elevator</a>      
-    <br />
-    <a href='dailies/2021/02/25_elevator_CN-Tower_spritesheet.png'>spritesheet</a>         
-</td>  
+        <small>2021-02-25</small>
+        <br />
+        <a href='https://www.pixilart.com/search?term=elevator'>#elevator</a>      
+        <br />
+        <a href='dailies/2021/02/25_elevator_CN-Tower_spritesheet.png'>spritesheet</a>         
+    </td>  
+    <td align='center'>
+        <a href='dailies/2021/02/26_heart_Heart.gif'>
+            <img src='dailies/2021/02/26_heart_Heart.gif' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>Heart</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-26</small>
+        <br />
+        <a href='https://www.pixilart.com/search?term=heart'>#elevator</a>      
+        <br />
+        <a href='dailies/2021/02/26_heart_Heart_spritesheet.png'>spritesheet</a>         
+    </td>      
   </tr>
 </table>
 
