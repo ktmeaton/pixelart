@@ -12,6 +12,8 @@ Pixel Art Portfolio.
 
 ## [Pixilart Daily Challenge](https://www.pixilart.com/challenges)
 
+### 2021 February
+
 <table>
   <tr>
     <td align='center'>
@@ -216,7 +218,58 @@ Pixel Art Portfolio.
         <br />
         <a href='dailies/2021/02/26_heart_Heart_spritesheet.png'>spritesheet</a>         
     </td>      
+    <td align='center'>
+        <a href=''>
+            <img src='' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>TBD</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-27</small>
+        <br />
+        <a href='https://www.pixilart.com/search?term=TBD'>#TBD</a>      
+        <br />
+        <a href='dailies/2021/02/27_x_X_spritesheet.png'>spritesheet</a>         
+    </td>  
+    <td align='center'>
+        <a href=''>
+            <img src='' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>TBD</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-02-28</small>
+        <br />
+        <a href='https://www.pixilart.com/search?term=TBD'>#TBD</a>      
+        <br />
+        <a href='dailies/2021/02/27_x_X_spritesheet.png'>spritesheet</a>         
+    </td>        
   </tr>
+</table>
+
+### 2021 March
+<table>
+    <tr>
+    <td align='center'>
+        <a href=''>
+            <img src='' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>TBD</b>
+            </sub>
+        </a>
+        <br />
+        <small>2021-03-01</small>
+        <br />
+        <a href='https://www.pixilart.com/search?term=TBD'>#TBD</a>      
+        <br />
+        <a href='dailies/2021/02/27_x_X_spritesheet.png'>spritesheet</a>         
+    </td>  
+    </tr>
 </table>
 
 ## Sprites
