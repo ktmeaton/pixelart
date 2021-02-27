@@ -43,6 +43,16 @@ LOGOS_ELEMENT = """    <td align='center'>
         </a>
     </td>"""  
 
+FONTS_ELEMENT = """    <td align='center'>
+        <a href='{}'>
+            <img src='{}' width='700px;' alt=''/>
+            <br />
+            <sub>
+                <b>{}</b>
+            </sub>
+        </a>
+    </td>"""      
+
 SPRITESHEET_ELEMENT = """\t<br />
         <a href='{}'>spritesheet</a>"""
 
@@ -52,6 +62,7 @@ dailies_dir = os.path.join(project_dir, "dailies")
 avatars_dir = os.path.join(project_dir, "avatars")
 logos_dir = os.path.join(project_dir, "logos")
 sprites_dir = os.path.join(project_dir, "sprites")
+fonts_dir = os.path.join(project_dir, "fonts")
 
 # -----------------------------------------------------------------------------
 # Header
@@ -281,6 +292,42 @@ print("""  </tr>
 </table>
 """)    
 
+# -----------------------------------------------------------------------------
+# Fonts
+
+print("## Fonts\n")
+print("<table>")
+
+row_counter = 1
+for font in os.listdir(fonts_dir):
+    font_dir = os.path.join(fonts_dir, font)
+    font_path = os.path.join(font_dir, font + ".png")
+    res = glob.glob(font_path)
+    if len(res) > 0:
+        file_name = os.path.basename(res[0])
+        img_src = "fonts/{}/{}".format(font, file_name)
+
+        # OUTPUT
+        # Print a new table row if needed
+        if row_counter == 1:
+            print("  <tr>") 
+                  
+        print(FONTS_ELEMENT.format(
+            img_src,      # <a href=...
+            img_src,      # <img src=...
+            font,       # <b>title</b>
+            )      
+        )
+
+        # Increment the row counter
+        row_counter += 1
+        if row_counter > TILE_PER_ROW:
+            print("  </tr")
+            row_counter = 1
+
+print("""  </tr>
+</table>
+""")    
 
 # -----------------------------------------------------------------------------
 # Notes

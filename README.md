@@ -331,6 +331,22 @@
   </tr>
 </table>
 
+## Fonts
+
+<table>
+  <tr>
+    <td align='center'>
+        <a href='fonts/new/new.png'>
+            <img src='fonts/new/new.png' width='700px;' alt=''/>
+            <br />
+            <sub>
+                <b>new</b>
+            </sub>
+        </a>
+    </td>
+  </tr>
+</table>
+
 ## Notes
 
 ### Spritesheets
