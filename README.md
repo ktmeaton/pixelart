@@ -219,6 +219,22 @@
 	<br />
         <a href='dailies/2021/02/26/26_heart_Heart_spritesheet.png'>spritesheet</a>
     </td>
+    <td align='center'>
+      <a href='dailies/2021/02/28_3d_Rubiks-Cube.gif'>
+        <img src='dailies/2021/02/28_3d_Rubiks-Cube.gif' width='100px;' alt=''/>
+        <br /> 
+        <br />
+        <sub>
+          <b>Rubiks Cube</b>
+        </sub>   
+      </a>
+      <br />
+      <small>2021-02-28</small>
+      <br />       
+      <a href='https://www.pixilart.com/search?term=3d'>#3d</a>
+	<br />
+        <a href='dailies/2021/02/28/28_3d_Rubiks-Cube_spritesheet.png'>spritesheet</a>
+    </td>
   </tr>
 </table>
 
