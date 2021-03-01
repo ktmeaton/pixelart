@@ -173,9 +173,9 @@ for year in os.listdir(dailies_dir):
                 print("  </tr")
                 row_counter = 1
 
-    if row_counter <= TILE_PER_ROW:
-        print("  </tr>")        
-    print("</table>\n")
+        if row_counter <= TILE_PER_ROW:
+            print("  </tr>")        
+        print("</table>\n")
 
 # -----------------------------------------------------------------------------
 # Sprites

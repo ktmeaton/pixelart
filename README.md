@@ -252,6 +252,27 @@
   </tr>
 </table>
 
+### 2021 03
+
+<table>
+  <tr>
+    <td align='center'>
+      <a href='dailies/2021/03/1_shark_Baby-Shark_96px.png'>
+        <img src='dailies/2021/03/1_shark_Baby-Shark_96px.png' width='100px;' alt=''/>
+        <br /> 
+        <br />
+        <sub>
+          <b>Baby Shark</b>
+        </sub>   
+      </a>
+      <br />
+      <small>2021-03-1</small>
+      <br />       
+      <a href='https://www.pixilart.com/search?term=shark'>#shark</a>
+    </td>
+  </tr>
+</table>
+
 ## Sprites
 
 <table>
