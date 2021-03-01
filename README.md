@@ -220,6 +220,20 @@
         <a href='dailies/2021/02/26/26_heart_Heart_spritesheet.png'>spritesheet</a>
     </td>
     <td align='center'>
+      <a href='dailies/2021/02/27_laser_Laser-Gun_96px.png'>
+        <img src='dailies/2021/02/27_laser_Laser-Gun_96px.png' width='100px;' alt=''/>
+        <br /> 
+        <br />
+        <sub>
+          <b>Laser Gun</b>
+        </sub>   
+      </a>
+      <br />
+      <small>2021-02-27</small>
+      <br />       
+      <a href='https://www.pixilart.com/search?term=laser'>#laser</a>
+    </td>
+    <td align='center'>
       <a href='dailies/2021/02/28_3d_Rubiks-Cube.gif'>
         <img src='dailies/2021/02/28_3d_Rubiks-Cube.gif' width='100px;' alt=''/>
         <br /> 
