@@ -284,6 +284,20 @@
       <br />       
       <a href='https://www.pixilart.com/search?term=aircraft'>#aircraft</a>
     </td>
+    <td align='center'>
+      <a href='dailies/2021/03/3_staircase_Spiral-Staircase_96px.png'>
+        <img src='dailies/2021/03/3_staircase_Spiral-Staircase_96px.png' width='100px;' alt=''/>
+        <br /> 
+        <br />
+        <sub>
+          <b>Spiral Staircase</b>
+        </sub>   
+      </a>
+      <br />
+      <small>2021-03-3</small>
+      <br />       
+      <a href='https://www.pixilart.com/search?term=staircase'>#staircase</a>
+    </td>
   </tr>
 </table>
 
