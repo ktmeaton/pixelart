@@ -270,6 +270,20 @@
       <br />       
       <a href='https://www.pixilart.com/search?term=shark'>#shark</a>
     </td>
+    <td align='center'>
+      <a href='dailies/2021/03/2_aircraft_Naboo-Starfighter_96px.png'>
+        <img src='dailies/2021/03/2_aircraft_Naboo-Starfighter_96px.png' width='100px;' alt=''/>
+        <br /> 
+        <br />
+        <sub>
+          <b>Naboo Starfighter</b>
+        </sub>   
+      </a>
+      <br />
+      <small>2021-03-2</small>
+      <br />       
+      <a href='https://www.pixilart.com/search?term=aircraft'>#aircraft</a>
+    </td>
   </tr>
 </table>
 
