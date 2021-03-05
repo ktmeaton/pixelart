@@ -298,6 +298,20 @@
       <br />       
       <a href='https://www.pixilart.com/search?term=staircase'>#staircase</a>
     </td>
+    <td align='center'>
+      <a href='dailies/2021/03/4_coffee_Coffee-Cup_96px.png'>
+        <img src='dailies/2021/03/4_coffee_Coffee-Cup_96px.png' width='100px;' alt=''/>
+        <br /> 
+        <br />
+        <sub>
+          <b>Coffee Cup</b>
+        </sub>   
+      </a>
+      <br />
+      <small>2021-03-4</small>
+      <br />       
+      <a href='https://www.pixilart.com/search?term=coffee'>#coffee</a>
+    </td>
   </tr>
 </table>
 
