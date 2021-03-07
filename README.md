@@ -313,8 +313,8 @@
       <a href='https://www.pixilart.com/search?term=coffee'>#coffee</a>
     </td>
     <td align='center'>
-      <a href=''>
-        <img src='' width='100px;' alt=''/>
+      <a href='dailies/2021/03/5_plate_Plate-Armor_96px.png'>
+        <img src='dailies/2021/03/5_plate_Plate-Armor_96px.png' width='100px;' alt=''/>
         <br /> 
         <br />
         <sub>
@@ -332,8 +332,6 @@
 ## Sprites
 
 <table>
-  <tr>
-  </tr>
   <tr>
     <td align='center'>
       <a href='sprites/knight/knight_spritesheet.png'>
