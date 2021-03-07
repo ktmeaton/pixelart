@@ -326,6 +326,36 @@
       <br />       
       <a href='https://www.pixilart.com/search?term=plate'>#plate</a>
     </td>
+    <td align='center'>
+      <a href='dailies/2021/03/6_horseshoe_Lucky-Horseshoe_96px.png'>
+        <img src='dailies/2021/03/6_horseshoe_Lucky-Horseshoe_96px.png' width='100px;' alt=''/>
+        <br /> 
+        <br />
+        <sub>
+          <b>Lucky Horseshoe</b>
+        </sub>   
+      </a>
+      <br />
+      <small>2021-03-6</small>
+      <br />       
+      <a href='https://www.pixilart.com/search?term=horseshoe'>#horseshoe</a>
+    </td>
+  </tr
+  <tr>
+    <td align='center'>
+      <a href=''>
+        <img src='' width='100px;' alt=''/>
+        <br /> 
+        <br />
+        <sub>
+          <b>Pinecone</b>
+        </sub>   
+      </a>
+      <br />
+      <small>2021-03-7</small>
+      <br />       
+      <a href='https://www.pixilart.com/search?term=pinecone'>#pinecone</a>
+    </td>
   </tr>
 </table>
 
