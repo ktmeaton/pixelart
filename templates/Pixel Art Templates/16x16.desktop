@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=.icon/16x16.png
+Name=16x16
+Type=Link
+URL[$e]=.source/16x16.kra
+X-KDE-Hidden=false
