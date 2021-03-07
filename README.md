@@ -312,12 +312,28 @@
       <br />       
       <a href='https://www.pixilart.com/search?term=coffee'>#coffee</a>
     </td>
+    <td align='center'>
+      <a href=''>
+        <img src='' width='100px;' alt=''/>
+        <br /> 
+        <br />
+        <sub>
+          <b>Plate Armor</b>
+        </sub>   
+      </a>
+      <br />
+      <small>2021-03-5</small>
+      <br />       
+      <a href='https://www.pixilart.com/search?term=plate'>#plate</a>
+    </td>
   </tr>
 </table>
 
 ## Sprites
 
 <table>
+  <tr>
+  </tr>
   <tr>
     <td align='center'>
       <a href='sprites/knight/knight_spritesheet.png'>
@@ -388,8 +404,17 @@
 <table>
   <tr>
     <td align='center'>
-        <a href='avatars/ktmeaton/ktmeaton.png'>
-            <img src='avatars/ktmeaton/ktmeaton.png' width='100px;' alt=''/>
+        <a href='avatars/family-eaton/family-eaton_96px.png'>
+            <img src='avatars/family-eaton/family-eaton_96px.png' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>family-eaton</b>
+            </sub>
+        </a>
+    </td>
+    <td align='center'>
+        <a href='avatars/ktmeaton/ktmeaton_96px.png'>
+            <img src='avatars/ktmeaton/ktmeaton_96px.png' width='100px;' alt=''/>
             <br />
             <sub>
                 <b>ktmeaton</b>
@@ -397,11 +422,29 @@
         </a>
     </td>
     <td align='center'>
-        <a href='avatars/mkarrel/mkarrel.png'>
-            <img src='avatars/mkarrel/mkarrel.png' width='100px;' alt=''/>
+        <a href='avatars/mceaton/mceaton_96px.png'>
+            <img src='avatars/mceaton/mceaton_96px.png' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>mceaton</b>
+            </sub>
+        </a>
+    </td>
+    <td align='center'>
+        <a href='avatars/mkarrel/mkarrel_96px.png'>
+            <img src='avatars/mkarrel/mkarrel_96px.png' width='100px;' alt=''/>
             <br />
             <sub>
                 <b>mkarrel</b>
+            </sub>
+        </a>
+    </td>
+    <td align='center'>
+        <a href='avatars/mteaton/mteaton_96px.png'>
+            <img src='avatars/mteaton/mteaton_96px.png' width='100px;' alt=''/>
+            <br />
+            <sub>
+                <b>mteaton</b>
             </sub>
         </a>
     </td>

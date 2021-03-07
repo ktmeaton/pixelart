@@ -5,7 +5,8 @@ import glob
 
 REPO = "ktmeaton/pixelart"
 REPO_URL = "https://github.com/ktmeaton/pixelart"
-IMG_SRC_GLOBS = ["*_{}.gif", "*_{}_96px.png","*_{}.png"]
+IMG_SRC_GLOBS = ["*{}.gif", "*{}_96px.png","*{}.png"]
+
 SPRITESHEET_GLOB = "*_spritesheet.png"
 TILE_PER_ROW = 6
 TOC = ["Pixilart Daily Challenge", "Sprites", "Avatars", "Fonts", "Logos", "Notes"]
@@ -227,29 +228,33 @@ print("<table>")
 row_counter = 1
 for avatar in os.listdir(avatars_dir):
     avatar_dir = os.path.join(avatars_dir, avatar)
-    avatar_path = os.path.join(avatar_dir, avatar + ".png")
-    res = glob.glob(avatar_path)
-    if len(res) > 0:
-        file_name = os.path.basename(res[0])
-        img_src = "avatars/{}/{}".format(avatar, file_name)
+    img_src = ""
+    for ext in IMG_SRC_GLOBS:
+        ext_query = avatar_dir + "/" + ext.format("")
+        res = glob.glob(ext_query)
+        # If we've found a matching file, break and use it                
+        if len(res) > 0:
+            file_name = os.path.basename(res[0])
+            img_src = "avatars/{}/{}".format(avatar, file_name)
+            break
 
-        # OUTPUT
-        # Print a new table row if needed
-        if row_counter == 1:
-            print("  <tr>") 
-                  
-        print(AVATARS_ELEMENT.format(
-            img_src,      # <a href=...
-            img_src,      # <img src=...
-            avatar,       # <b>title</b>
-            )      
-        )
+    # OUTPUT
+    # Print a new table row if needed
+    if row_counter == 1:
+        print("  <tr>") 
+                
+    print(AVATARS_ELEMENT.format(
+        img_src,      # <a href=...
+        img_src,      # <img src=...
+        avatar,       # <b>title</b>
+        )      
+    )
 
-        # Increment the row counter
-        row_counter += 1
-        if row_counter > TILE_PER_ROW:
-            print("  </tr")
-            row_counter = 1
+    # Increment the row counter
+    row_counter += 1
+    if row_counter > TILE_PER_ROW:
+        print("  </tr")
+        row_counter = 1
 
 print("""  </tr>
 </table>
