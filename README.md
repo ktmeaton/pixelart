@@ -343,8 +343,8 @@
   </tr
   <tr>
     <td align='center'>
-      <a href=''>
-        <img src='' width='100px;' alt=''/>
+      <a href='dailies/2021/03/7_pinecone_Pinecone_96px.png'>
+        <img src='dailies/2021/03/7_pinecone_Pinecone_96px.png' width='100px;' alt=''/>
         <br /> 
         <br />
         <sub>
