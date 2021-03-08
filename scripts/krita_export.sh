@@ -21,5 +21,6 @@ echo -e "\t${resize_file}"
 
 echo "/mnt/c/Program\ Files/Krita\ \(x64\)/bin/krita.exe --export --export-filename ${convert_file} ${INFILE}";
 /mnt/c/Program\ Files/Krita\ \(x64\)/bin/krita.exe --export --export-filename ${convert_file} ${INFILE};
+#/c/Program\ Files/Krita\ \(x64\)/bin/krita.exe --export --export-filename ${convert_file} ${INFILE};
 echo "convert ${convert_file} -filter point -resize ${PIXELS}@  ${resize_file}";
 convert ${convert_file} -filter point -resize ${PIXELS}@  ${resize_file}
