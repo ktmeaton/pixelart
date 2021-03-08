@@ -357,8 +357,8 @@
       <a href='https://www.pixilart.com/search?term=pinecone'>#pinecone</a>
     </td>
     <td align='center'>
-      <a href='dailies/2021/03/8_taxi_Taxi_96px.png'>
-        <img src='dailies/2021/03/8_taxi_Taxi_96px.png' width='100px;' alt=''/>
+      <a href='dailies/2021/03/8_taxi_Taxi.gif'>
+        <img src='dailies/2021/03/8_taxi_Taxi.gif' width='100px;' alt=''/>
         <br /> 
         <br />
         <sub>
@@ -369,6 +369,8 @@
       <small>2021-03-8</small>
       <br />       
       <a href='https://www.pixilart.com/search?term=taxi'>#taxi</a>
+	<br />
+        <a href='dailies/2021/03/8/8_taxi_Taxi_spritesheet.png'>spritesheet</a>
     </td>
   </tr>
 </table>
