@@ -372,6 +372,22 @@
 	<br />
         <a href='dailies/2021/03/8/8_taxi_Taxi_spritesheet.png'>spritesheet</a>
     </td>
+    <td align='center'>
+      <a href='dailies/2021/03/9_beetle_Scarab-Beetle.gif'>
+        <img src='dailies/2021/03/9_beetle_Scarab-Beetle.gif' width='100px;' alt=''/>
+        <br /> 
+        <br />
+        <sub>
+          <b>Scarab Beetle</b>
+        </sub>   
+      </a>
+      <br />
+      <small>2021-03-9</small>
+      <br />       
+      <a href='https://www.pixilart.com/search?term=beetle'>#beetle</a>
+	<br />
+        <a href='dailies/2021/03/9/9_beetle_Scarab-Beetle_spritesheet.png'>spritesheet</a>
+    </td>
   </tr>
 </table>
 
