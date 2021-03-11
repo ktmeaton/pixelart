@@ -432,6 +432,9 @@
         <a href='studies/treehouse/treehouse.png'>
                 <img src='studies/treehouse/treehouse.png' width='200px;' alt=''/> 
             </a>
+        <a href='studies/treehouse/treehouse_1bit.png'>
+                <img src='studies/treehouse/treehouse_1bit.png' width='200px;' alt=''/> 
+            </a>
         <br />
             <sub>
               <b>treehouse</b>
