@@ -9,7 +9,7 @@ IMG_SRC_GLOBS = ["*{}.gif", "*{}_96px.png","*{}.png"]
 
 SPRITESHEET_GLOB = "*_spritesheet.png"
 TILE_PER_ROW = 6
-TOC = ["Pixilart Daily Challenge", "Sprites", "Avatars", "Fonts", "Logos", "Notes"]
+TOC = ["Pixilart Daily Challenge", "Studies", "Sprites", "Avatars", "Fonts", "Logos", "Notes"]
 DAILIES_ELEMENT = """    <td align='center'>
       <a href='{}'>
         <img src='{}' width='100px;' alt=''/>

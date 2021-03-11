@@ -3,11 +3,12 @@
 ## Table of Contents
 
 1. [Pixilart Daily Challenge](https://github.com/ktmeaton/pixelart#pixilart-daily-challenge)
-2. [Sprites](https://github.com/ktmeaton/pixelart#sprites)
-3. [Avatars](https://github.com/ktmeaton/pixelart#avatars)
-4. [Fonts](https://github.com/ktmeaton/pixelart#fonts)
-5. [Logos](https://github.com/ktmeaton/pixelart#logos)
-6. [Notes](https://github.com/ktmeaton/pixelart#notes)
+2. [Studies](https://github.com/ktmeaton/pixelart#studies)
+3. [Sprites](https://github.com/ktmeaton/pixelart#sprites)
+4. [Avatars](https://github.com/ktmeaton/pixelart#avatars)
+5. [Fonts](https://github.com/ktmeaton/pixelart#fonts)
+6. [Logos](https://github.com/ktmeaton/pixelart#logos)
+7. [Notes](https://github.com/ktmeaton/pixelart#notes)
 
 ## [Pixilart Daily Challenges](https://www.pixilart.com/challenges)
 
