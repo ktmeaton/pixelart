@@ -34,6 +34,16 @@ AVATARS_ELEMENT = """    <td align='center'>
         </a>
     </td>"""  
 
+STUDIES_ELEMENT = """    <td align='center'>
+        <a href='{}'>
+            <img src='{}' width='200px;' alt=''/>
+            <br />
+            <sub>
+                <b>{}</b>
+            </sub>
+        </a>
+    </td>"""    
+
 LOGOS_ELEMENT = """    <td align='center'>
         <a href='{}'>
             <img src='{}' width='100px;' alt=''/>
@@ -64,6 +74,7 @@ avatars_dir = os.path.join(project_dir, "avatars")
 logos_dir = os.path.join(project_dir, "logos")
 sprites_dir = os.path.join(project_dir, "sprites")
 fonts_dir = os.path.join(project_dir, "fonts")
+studies_dir = os.path.join(project_dir, "studies")
 
 # -----------------------------------------------------------------------------
 # Header
@@ -177,6 +188,50 @@ for year in os.listdir(dailies_dir):
         if row_counter <= TILE_PER_ROW:
             print("  </tr>")        
         print("</table>\n")
+
+# -----------------------------------------------------------------------------
+# Studies
+
+print("## Studies\n")
+print("<table>")
+
+for study in os.listdir(studies_dir):
+    study_dir = os.path.join(studies_dir, study)
+    print("  <tr>")  
+    print("  </tr>")
+    # Search for gifs and images
+    img_src = ""
+    for ext in IMG_SRC_GLOBS:
+        ext_query = study_dir + "/" + ext.format("")
+        res = glob.glob(ext_query)  
+        if len(res) == 0: continue
+
+        # link to gif/image
+        print(
+            "" 
+            + "    <td align='center'>\n"
+            + "      <a href='studies/{}/{}.png'>".format(study, study)
+        )
+        # Elements for each individual gif
+        for src in res:
+            file_name = os.path.basename(src)
+            img_src = "studies/{}/{}".format(study, file_name)
+            print("""        <a href='{}'>
+                <img src='{}' width='200px;' alt=''/> 
+            </a>""".format(img_src, img_src))   
+        # meta information
+        print(
+            """        <br />
+            <sub>
+              <b>{}</b>
+            </sub>
+        </a>
+        <br />
+        <a href='studies/{}/credits.txt'>credits</a> """.format(study, study)           
+        )
+        print("    </td>")    
+    print("  </tr>")        
+print("</table>\n")
 
 # -----------------------------------------------------------------------------
 # Sprites

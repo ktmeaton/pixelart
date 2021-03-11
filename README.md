@@ -405,6 +405,43 @@
   </tr>
 </table>
 
+## Studies
+
+<table>
+  <tr>
+  </tr>
+    <td align='center'>
+      <a href='studies/slime/slime.png'>
+        <a href='studies/slime/slime_bounce.gif'>
+                <img src='studies/slime/slime_bounce.gif' width='200px;' alt=''/> 
+            </a>
+        <br />
+            <sub>
+              <b>slime</b>
+            </sub>
+        </a>
+        <br />
+        <a href='studies/slime/credits.txt'>credits</a> 
+    </td>
+  </tr>
+  <tr>
+  </tr>
+    <td align='center'>
+      <a href='studies/treehouse/treehouse.png'>
+        <a href='studies/treehouse/treehouse.png'>
+                <img src='studies/treehouse/treehouse.png' width='200px;' alt=''/> 
+            </a>
+        <br />
+            <sub>
+              <b>treehouse</b>
+            </sub>
+        </a>
+        <br />
+        <a href='studies/treehouse/credits.txt'>credits</a> 
+    </td>
+  </tr>
+</table>
+
 ## Sprites
 
 <table>
@@ -470,8 +507,6 @@
         <br />
         <a href='sprites/ktmeaton/ktmeaton_spritesheet.png'>spritesheet</a> 
     </td>
-  </tr>
-  <tr>
   </tr>
 </table>
 
