@@ -403,6 +403,20 @@
       <br />       
       <a href='https://www.pixilart.com/search?term=treehouse'>#treehouse</a>
     </td>
+    <td align='center'>
+      <a href='dailies/2021/03/11_badge_Rainbow-Badge.png'>
+        <img src='dailies/2021/03/11_badge_Rainbow-Badge.png' width='100px;' alt=''/>
+        <br /> 
+        <br />
+        <sub>
+          <b>Rainbow Badge</b>
+        </sub>   
+      </a>
+      <br />
+      <small>2021-03-11</small>
+      <br />       
+      <a href='https://www.pixilart.com/search?term=badge'>#badge</a>
+    </td>
   </tr>
 </table>
 

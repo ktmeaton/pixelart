@@ -1,0 +1,27 @@
+GreenS	100,75,75
+GreenB	85,60,85
+GreenH	75,40,100
+
+Green2S	150,80,45
+Green2B	135,65,55
+Green2H	125,45,70
+
+BlueS	215,100,75
+BlueB	200,85,85
+BlueH	190,65,100
+
+PurpleS	315,70,40
+PurpleB	300,55,50
+PurpleH	290,35,65
+
+PinkS	15,65,85
+PinkB	5,40,95
+PinkH	355,20,110
+
+RedS	355,100,80
+RedB	10,85,90
+RedH	20,65,100
+
+OrangeS	25,95,85
+OrangeB	35,80,95
+OrangeB	35,80,95
