@@ -388,6 +388,20 @@
 	<br />
         <a href='dailies/2021/03/9/9_beetle_Scarab-Beetle_spritesheet.png'>spritesheet</a>
     </td>
+    <td align='center'>
+      <a href='dailies/2021/03/10_treehouse_Treehouse.png'>
+        <img src='dailies/2021/03/10_treehouse_Treehouse.png' width='100px;' alt=''/>
+        <br /> 
+        <br />
+        <sub>
+          <b>Treehouse</b>
+        </sub>   
+      </a>
+      <br />
+      <small>2021-03-10</small>
+      <br />       
+      <a href='https://www.pixilart.com/search?term=treehouse'>#treehouse</a>
+    </td>
   </tr>
 </table>
 
@@ -456,6 +470,8 @@
         <br />
         <a href='sprites/ktmeaton/ktmeaton_spritesheet.png'>spritesheet</a> 
     </td>
+  </tr>
+  <tr>
   </tr>
 </table>
 
