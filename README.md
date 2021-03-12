@@ -404,8 +404,8 @@
       <a href='https://www.pixilart.com/search?term=treehouse'>#treehouse</a>
     </td>
     <td align='center'>
-      <a href='dailies/2021/03/11_badge_Rainbow-Badge.png'>
-        <img src='dailies/2021/03/11_badge_Rainbow-Badge.png' width='100px;' alt=''/>
+      <a href='dailies/2021/03/11_badge_Rainbow-Badge_96px.png'>
+        <img src='dailies/2021/03/11_badge_Rainbow-Badge_96px.png' width='100px;' alt=''/>
         <br /> 
         <br />
         <sub>
@@ -417,12 +417,30 @@
       <br />       
       <a href='https://www.pixilart.com/search?term=badge'>#badge</a>
     </td>
+    <td align='center'>
+      <a href='dailies/2021/03/12_opensign_Open-Sign_96px.png'>
+        <img src='dailies/2021/03/12_opensign_Open-Sign_96px.png' width='100px;' alt=''/>
+        <br /> 
+        <br />
+        <sub>
+          <b>Open Sign</b>
+        </sub>   
+      </a>
+      <br />
+      <small>2021-03-12</small>
+      <br />       
+      <a href='https://www.pixilart.com/search?term=opensign'>#opensign</a>
+    </td>
+  </tr
   </tr>
 </table>
 
 ## Studies
 
 <table>
+  <tr>
+  </tr>
+  </tr>
   <tr>
   </tr>
     <td align='center'>

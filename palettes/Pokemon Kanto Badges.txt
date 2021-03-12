@@ -24,4 +24,4 @@ RedH	20,65,100
 
 OrangeS	25,95,85
 OrangeB	35,80,95
-OrangeB	35,80,95
+OrangeH	50,70,100
