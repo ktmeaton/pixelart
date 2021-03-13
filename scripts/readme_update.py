@@ -197,6 +197,7 @@ print("<table>")
 
 for study in os.listdir(studies_dir):
     study_dir = os.path.join(studies_dir, study)
+    title_pretty = study.replace("-", " ").title()     
     print("  <tr>")  
     print("  </tr>")
     # Search for gifs and images
@@ -205,7 +206,6 @@ for study in os.listdir(studies_dir):
         ext_query = study_dir + "/" + ext.format("")
         res = glob.glob(ext_query)  
         if len(res) == 0: continue
-
         # link to gif/image
         print(
             "" 
@@ -214,7 +214,7 @@ for study in os.listdir(studies_dir):
         )
         # Elements for each individual gif
         for src in res:
-            file_name = os.path.basename(src)
+            file_name = os.path.basename(src)            
             img_src = "studies/{}/{}".format(study, file_name)
             print("""        <a href='{}'>
                 <img src='{}' width='200px;' alt=''/> 
@@ -227,7 +227,7 @@ for study in os.listdir(studies_dir):
             </sub>
         </a>
         <br />
-        <a href='studies/{}/credits.txt'>credits</a> """.format(study, study)           
+        <a href='studies/{}/credits.txt'>Credits</a> """.format(title_pretty, study)           
         )
         print("    </td>")    
     print("  </tr>")        
@@ -241,6 +241,9 @@ print("<table>")
 
 for sprite in os.listdir(sprites_dir):
     sprite_dir = os.path.join(sprites_dir, sprite)
+    title_pretty = sprite.replace("-", " ").title()   
+    # Manual edits
+    title_pretty = title_pretty.replace("Ktmeaton", "ktmeaton")         
     print("  <tr>")
     # Search for gifs
     gif_query = os.path.join(sprite_dir, "*.gif")
@@ -267,7 +270,7 @@ for sprite in os.listdir(sprites_dir):
             </sub>
         </a>
         <br />
-        <a href='sprites/{}/{}_spritesheet.png'>spritesheet</a> """.format(sprite, sprite, sprite)           
+        <a href='sprites/{}/{}_spritesheet.png'>Spritesheet</a> """.format(title_pretty, sprite, sprite)           
         )
         print("    </td>")    
     print("  </tr>")

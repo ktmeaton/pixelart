@@ -455,6 +455,19 @@
 <table>
   <tr>
   </tr>
+    <td align='center'>
+      <a href='studies/kanto-badges/kanto-badges.png'>
+        <a href='studies/kanto-badges/kanto-badges.png'>
+                <img src='studies/kanto-badges/kanto-badges.png' width='200px;' alt=''/> 
+            </a>
+        <br />
+            <sub>
+              <b>Kanto Badges</b>
+            </sub>
+        </a>
+        <br />
+        <a href='studies/kanto-badges/credits.txt'>Credits</a> 
+    </td>
   </tr>
   <tr>
   </tr>
@@ -465,11 +478,11 @@
             </a>
         <br />
             <sub>
-              <b>slime</b>
+              <b>Slime</b>
             </sub>
         </a>
         <br />
-        <a href='studies/slime/credits.txt'>credits</a> 
+        <a href='studies/slime/credits.txt'>Credits</a> 
     </td>
   </tr>
   <tr>
@@ -484,11 +497,11 @@
             </a>
         <br />
             <sub>
-              <b>treehouse</b>
+              <b>Treehouse</b>
             </sub>
         </a>
         <br />
-        <a href='studies/treehouse/credits.txt'>credits</a> 
+        <a href='studies/treehouse/credits.txt'>Credits</a> 
     </td>
   </tr>
 </table>
@@ -510,11 +523,11 @@
             </a>
         <br />
             <sub>
-              <b>knight</b>
+              <b>Knight</b>
             </sub>
         </a>
         <br />
-        <a href='sprites/knight/knight_spritesheet.png'>spritesheet</a> 
+        <a href='sprites/knight/knight_spritesheet.png'>Spritesheet</a> 
     </td>
   </tr>
   <tr>
@@ -528,11 +541,11 @@
             </a>
         <br />
             <sub>
-              <b>knight-cape</b>
+              <b>Knight Cape</b>
             </sub>
         </a>
         <br />
-        <a href='sprites/knight-cape/knight-cape_spritesheet.png'>spritesheet</a> 
+        <a href='sprites/knight-cape/knight-cape_spritesheet.png'>Spritesheet</a> 
     </td>
   </tr>
   <tr>
@@ -556,7 +569,7 @@
             </sub>
         </a>
         <br />
-        <a href='sprites/ktmeaton/ktmeaton_spritesheet.png'>spritesheet</a> 
+        <a href='sprites/ktmeaton/ktmeaton_spritesheet.png'>Spritesheet</a> 
     </td>
   </tr>
 </table>
