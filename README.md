@@ -432,6 +432,21 @@
       <a href='https://www.pixilart.com/search?term=opensign'>#opensign</a>
     </td>
   </tr
+  <tr>
+    <td align='center'>
+      <a href='dailies/2021/03/13_camera_Old-Film-Camera_96px.png'>
+        <img src='dailies/2021/03/13_camera_Old-Film-Camera_96px.png' width='100px;' alt=''/>
+        <br /> 
+        <br />
+        <sub>
+          <b>Old Film Camera</b>
+        </sub>   
+      </a>
+      <br />
+      <small>2021-03-13</small>
+      <br />       
+      <a href='https://www.pixilart.com/search?term=camera'>#camera</a>
+    </td>
   </tr>
 </table>
 
