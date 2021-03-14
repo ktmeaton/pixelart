@@ -447,6 +447,22 @@
       <br />       
       <a href='https://www.pixilart.com/search?term=camera'>#camera</a>
     </td>
+    <td align='center'>
+      <a href='dailies/2021/03/14_avocado_Avocuddle.gif'>
+        <img src='dailies/2021/03/14_avocado_Avocuddle.gif' width='100px;' alt=''/>
+        <br /> 
+        <br />
+        <sub>
+          <b>Avocuddle</b>
+        </sub>   
+      </a>
+      <br />
+      <small>2021-03-14</small>
+      <br />       
+      <a href='https://www.pixilart.com/search?term=avocado'>#avocado</a>
+	<br />
+        <a href='dailies/2021/03/14/14_avocado_Avocuddle_spritesheet.png'>spritesheet</a>
+    </td>
   </tr>
 </table>
 
