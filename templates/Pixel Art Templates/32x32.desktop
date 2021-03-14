@@ -1,6 +1,6 @@
 [Desktop Entry]
-Icon=.icon/32x32.png
+Icon=.icon/_32x32.png
 Name=32x32
 Type=Link
-URL[$e]=.source/32x32.kra
+URL[$e]=.source/_32x32.kra
 X-KDE-Hidden=false
