@@ -418,8 +418,8 @@
       <a href='https://www.pixilart.com/search?term=badge'>#badge</a>
     </td>
     <td align='center'>
-      <a href='dailies/2021/03/12_opensign_Open-Sign_96px.png'>
-        <img src='dailies/2021/03/12_opensign_Open-Sign_96px.png' width='100px;' alt=''/>
+      <a href='dailies/2021/03/12_opensign_Open-Sign.gif'>
+        <img src='dailies/2021/03/12_opensign_Open-Sign.gif' width='100px;' alt=''/>
         <br /> 
         <br />
         <sub>
@@ -430,6 +430,8 @@
       <small>2021-03-12</small>
       <br />       
       <a href='https://www.pixilart.com/search?term=opensign'>#opensign</a>
+	<br />
+        <a href='dailies/2021/03/12/12_opensign_Open-Sign_spritesheet.png'>spritesheet</a>
     </td>
   </tr
   <tr>
