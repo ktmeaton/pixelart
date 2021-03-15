@@ -466,8 +466,8 @@
         <a href='dailies/2021/03/14/14_avocado_Avocuddle_spritesheet.png'>spritesheet</a>
     </td>
     <td align='center'>
-      <a href='dailies/2021/03/15_lightbulb_Lightbulb_96px.png'>
-        <img src='dailies/2021/03/15_lightbulb_Lightbulb_96px.png' width='100px;' alt=''/>
+      <a href='dailies/2021/03/15_lightbulb_Lightbulb.gif'>
+        <img src='dailies/2021/03/15_lightbulb_Lightbulb.gif' width='100px;' alt=''/>
         <br /> 
         <br />
         <sub>
