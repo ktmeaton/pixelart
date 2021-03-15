@@ -465,6 +465,20 @@
 	<br />
         <a href='dailies/2021/03/14/14_avocado_Avocuddle_spritesheet.png'>spritesheet</a>
     </td>
+    <td align='center'>
+      <a href='dailies/2021/03/15_lightbulb_Lightbulb_96px.png'>
+        <img src='dailies/2021/03/15_lightbulb_Lightbulb_96px.png' width='100px;' alt=''/>
+        <br /> 
+        <br />
+        <sub>
+          <b>Lightbulb</b>
+        </sub>   
+      </a>
+      <br />
+      <small>2021-03-15</small>
+      <br />       
+      <a href='https://www.pixilart.com/search?term=lightbulb'>#lightbulb</a>
+    </td>
   </tr>
 </table>
 
